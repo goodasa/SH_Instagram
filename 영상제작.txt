@@ -1,0 +1,6 @@
+1. 화면크게 만들기: M-x presentation-mode
+2. 글자크기 조정: C-x C-+
+3. 라인스페이싱 조절: M-x choi-toggle-line-spacing
+4. 현재 브랜치만 보이기: C-x n s
+5. 현재브랜치 빼고 다 접기: M-=
+6. 현재 브랜치만 보이기 종료: C-x n w
